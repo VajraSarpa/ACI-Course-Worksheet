@@ -1,0 +1,1169 @@
+"""
+AWS Cloud Institute - Developer Fundamentals
+Complete Practice Problems (250+ Problems)
+
+Instructions:
+- Each problem is written as a comment
+- Write your solution below each problem
+- Test your code as you go
+- Mark problems as complete with a checkmark in the comment
+
+Author: Your Name
+Date: 2025-11-24
+"""
+
+# ==============================================================================
+# WEEK 1: KICKSTART YOUR PYTHON JOURNEY WITH AI-POWERED CODING
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Section 1.1: Python Basics & Setup
+# ------------------------------------------------------------------------------
+
+# Problem 1: Write a program that prints 'Hello, AWS Cloud Institute!' to the console.
+
+
+
+# Problem 2: Create variables to store your name, age, and favorite programming language. Print them.
+
+
+
+# Problem 3: Write a program that takes user input for their name and greets them.
+
+
+
+# Problem 4: Create variables of different types: string, integer, float, and boolean. Print their types.
+
+
+
+# Problem 5: Write a program that performs basic arithmetic: add, subtract, multiply, divide two numbers.
+
+
+
+# Problem 6: Create a multi-line string and print it.
+
+
+
+# Problem 7: Write a program that uses f-strings to format output with variables.
+
+
+
+# Problem 8: Calculate the remainder when 100 is divided by 7 using the modulo operator.
+
+
+
+# Problem 9: Write a program that converts temperature from Celsius to Fahrenheit.
+
+
+
+# Problem 10: Create a program that calculates the area of a circle given its radius.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 1.2: Data Types & Type Conversion
+# ------------------------------------------------------------------------------
+
+# Problem 11: Convert the string '42' to an integer and perform calculations with it.
+
+
+
+# Problem 12: Convert the float 3.14159 to a string and concatenate it with text.
+
+
+
+# Problem 13: Write a program that checks if a variable is of type int using type().
+
+
+
+# Problem 14: Convert a boolean True to a string and print it.
+
+
+
+# Problem 15: Take two string inputs representing numbers, convert them to floats, and calculate their sum.
+
+
+
+# Problem 16: Write a program that demonstrates integer division (//) vs float division (/).
+
+
+
+# Problem 17: Create a program that handles user input and converts it to the appropriate type.
+
+
+
+# Problem 18: Write code that demonstrates type coercion in Python.
+
+
+
+# Problem 19: Convert a list [1, 2, 3] to a string representation.
+
+
+
+# Problem 20: Write a program that safely converts user input to a number with error checking logic.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 1.3: Strings & String Operations
+# ------------------------------------------------------------------------------
+
+# Problem 21: Write a program that concatenates three strings.
+
+
+
+# Problem 22: Create a string and access the character at index 3.
+
+
+
+# Problem 23: Write code that slices a string to get the first 5 characters.
+
+
+
+# Problem 24: Convert a string to uppercase and lowercase.
+
+
+
+# Problem 25: Write a program that counts the number of characters in a string.
+
+
+
+# Problem 26: Replace all occurrences of a character in a string with another character.
+
+
+
+# Problem 27: Split a sentence into a list of words.
+
+
+
+# Problem 28: Join a list of words into a single sentence.
+
+
+
+# Problem 29: Write a program that checks if a string starts with a specific prefix.
+
+
+
+# Problem 30: Create a program that removes leading and trailing whitespace from a string.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 1.4: Basic Operators & Expressions
+# ------------------------------------------------------------------------------
+
+# Problem 31: Write expressions using comparison operators (==, !=, <, >, <=, >=).
+
+
+
+# Problem 32: Create a program using logical operators (and, or, not).
+
+
+
+# Problem 33: Calculate the result of 2 raised to the power of 10.
+
+
+
+# Problem 34: Write a program that uses the += operator to increment a variable.
+
+
+
+# Problem 35: Create expressions that demonstrate operator precedence.
+
+
+
+# Problem 36: Write a program that checks if a number is between 10 and 20 (inclusive).
+
+
+
+# Problem 37: Use the in operator to check if a character exists in a string.
+
+
+
+# Problem 38: Write a program that uses is to compare object identity.
+
+
+
+# Problem 39: Create a boolean expression that combines multiple conditions.
+
+
+
+# Problem 40: Write a program that evaluates a complex mathematical expression following PEMDAS.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 1.5: AI-Assisted Coding & Best Practices
+# ------------------------------------------------------------------------------
+
+# Problem 41: Write a well-commented program that calculates compound interest.
+
+
+
+# Problem 42: Create a program with a docstring explaining what the code does.
+
+
+
+# Problem 43: Write code following PEP 8 style guidelines (proper spacing, naming conventions).
+
+
+
+# Problem 44: Add inline comments to explain complex logic in a calculation program.
+
+
+
+# Problem 45: Write a program using meaningful variable names instead of x, y, z.
+
+
+
+# Problem 46: Create a program outline with TODO comments for future implementation.
+
+
+
+# Problem 47: Write a program that uses Amazon Q Developer-style prompt comments to describe functionality.
+
+
+
+# Problem 48: Document a simple calculator program with clear section headers.
+
+
+
+# Problem 49: Write code that demonstrates good vs bad commenting practices.
+
+
+
+# Problem 50: Create a program with a header comment including author, date, and purpose.
+
+
+
+# ==============================================================================
+# WEEK 2: CONTROL FLOW AND REPETITIVE TASKS
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Section 2.1: Conditional Statements (if/elif/else)
+# ------------------------------------------------------------------------------
+
+# Problem 51: Write an if statement that checks if a number is positive.
+
+
+
+# Problem 52: Create an if-else statement that determines if a number is even or odd.
+
+
+
+# Problem 53: Write an if-elif-else chain that categorizes age groups (child, teen, adult, senior).
+
+
+
+# Problem 54: Create a program that checks if a year is a leap year.
+
+
+
+# Problem 55: Write nested if statements to check multiple conditions.
+
+
+
+# Problem 56: Create a grade calculator using if-elif-else (A: 90+, B: 80-89, etc.).
+
+
+
+# Problem 57: Write a program that validates password strength (length, has number, has special char).
+
+
+
+# Problem 58: Create a simple login system that checks username and password.
+
+
+
+# Problem 59: Write a program using ternary operator (conditional expression) in Python.
+
+
+
+# Problem 60: Create a BMI calculator that categorizes results (underweight, normal, overweight, obese).
+
+
+
+# ------------------------------------------------------------------------------
+# Section 2.2: For Loops
+# ------------------------------------------------------------------------------
+
+# Problem 61: Write a for loop that prints numbers 1 to 10.
+
+
+
+# Problem 62: Create a for loop that iterates through a list of names and prints each one.
+
+
+
+# Problem 63: Write a for loop using range() to print even numbers from 0 to 20.
+
+
+
+# Problem 64: Create a program that sums all numbers from 1 to 100 using a for loop.
+
+
+
+# Problem 65: Write a for loop that prints each character in a string.
+
+
+
+# Problem 66: Create a for loop with enumerate() to print index and value.
+
+
+
+# Problem 67: Write a nested for loop to print a multiplication table.
+
+
+
+# Problem 68: Create a for loop that prints numbers in reverse from 10 to 1.
+
+
+
+# Problem 69: Write a for loop that calculates factorial of a number.
+
+
+
+# Problem 70: Create a program that finds all prime numbers up to 50 using a for loop.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 2.3: While Loops
+# ------------------------------------------------------------------------------
+
+# Problem 71: Write a while loop that counts from 1 to 10.
+
+
+
+# Problem 72: Create a while loop that continues until user enters 'quit'.
+
+
+
+# Problem 73: Write a while loop that doubles a number until it exceeds 1000.
+
+
+
+# Problem 74: Create a guessing game using a while loop.
+
+
+
+# Problem 75: Write an infinite loop with a break statement.
+
+
+
+# Problem 76: Create a while loop that validates user input (keeps asking until valid).
+
+
+
+# Problem 77: Write a countdown program using a while loop.
+
+
+
+# Problem 78: Create a program that calculates Fibonacci sequence using while loop.
+
+
+
+# Problem 79: Write a while loop with continue statement to skip certain values.
+
+
+
+# Problem 80: Create a menu-driven program using a while loop.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 2.4: Loop Control (break, continue, pass)
+# ------------------------------------------------------------------------------
+
+# Problem 81: Write a loop that breaks when finding a specific value in a list.
+
+
+
+# Problem 82: Create a loop using continue to skip even numbers.
+
+
+
+# Problem 83: Write a program using pass as a placeholder in a loop.
+
+
+
+# Problem 84: Create a loop that breaks on multiple conditions using or.
+
+
+
+# Problem 85: Write nested loops with break to exit both loops.
+
+
+
+# Problem 86: Create a program that uses continue to filter out unwanted values.
+
+
+
+# Problem 87: Write a for-else loop that executes else when loop completes normally.
+
+
+
+# Problem 88: Create a while-else loop with break that prevents else execution.
+
+
+
+# Problem 89: Write a program that searches for an element in a list with loop control.
+
+
+
+# Problem 90: Create a validation loop with multiple exit conditions.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 2.5: Pattern Programs & Advanced Loops
+# ------------------------------------------------------------------------------
+
+# Problem 91: Print a right triangle pattern with asterisks (*).
+
+
+
+# Problem 92: Create a pyramid pattern with numbers.
+
+
+
+# Problem 93: Write a program that prints a diamond pattern.
+
+
+
+# Problem 94: Create a checkerboard pattern using nested loops.
+
+
+
+# Problem 95: Write a program that prints Floyd's triangle.
+
+
+
+# Problem 96: Create a hollow square pattern.
+
+
+
+# Problem 97: Write a program that generates Pascal's triangle.
+
+
+
+# Problem 98: Create an inverted pyramid pattern.
+
+
+
+# Problem 99: Write a program that prints alphabet patterns (A, AB, ABC, ...).
+
+
+
+# Problem 100: Create a complex pattern combining multiple loop techniques.
+
+
+
+# ==============================================================================
+# WEEK 3: WORKING WITH PYTHON LISTS AND GETTING STARTED WITH APIS
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Section 3.1: List Creation & Access
+# ------------------------------------------------------------------------------
+
+# Problem 101: Create a list of 5 favorite foods and print it.
+
+
+
+# Problem 102: Access the first, middle, and last elements of a list.
+
+
+
+# Problem 103: Create a list of numbers and access elements using negative indexing.
+
+
+
+# Problem 104: Write a program that slices a list to get the first 3 elements.
+
+
+
+# Problem 105: Create a list and use slicing to get every other element.
+
+
+
+# Problem 106: Write code that creates a reversed copy of a list using slicing.
+
+
+
+# Problem 107: Create a 2D list (list of lists) representing a grid.
+
+
+
+# Problem 108: Access specific elements in a nested list.
+
+
+
+# Problem 109: Write a program that checks the length of a list.
+
+
+
+# Problem 110: Create a list using the list() constructor from a string.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 3.2: List Methods & Operations
+# ------------------------------------------------------------------------------
+
+# Problem 111: Use append() to add an element to a list.
+
+
+
+# Problem 112: Use insert() to add an element at a specific position.
+
+
+
+# Problem 113: Use extend() to combine two lists.
+
+
+
+# Problem 114: Remove an element using remove() method.
+
+
+
+# Problem 115: Use pop() to remove and return the last element.
+
+
+
+# Problem 116: Clear all elements from a list using clear().
+
+
+
+# Problem 117: Use count() to find how many times an element appears.
+
+
+
+# Problem 118: Use index() to find the position of an element.
+
+
+
+# Problem 119: Sort a list in ascending and descending order.
+
+
+
+# Problem 120: Use reverse() to reverse a list in place.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 3.3: List Algorithms & Processing
+# ------------------------------------------------------------------------------
+
+# Problem 121: Find the maximum value in a list without using max().
+
+
+
+# Problem 122: Find the minimum value in a list without using min().
+
+
+
+# Problem 123: Calculate the sum of all elements in a list.
+
+
+
+# Problem 124: Calculate the average of numbers in a list.
+
+
+
+# Problem 125: Find all even numbers in a list.
+
+
+
+# Problem 126: Remove duplicates from a list.
+
+
+
+# Problem 127: Find common elements between two lists.
+
+
+
+# Problem 128: Merge two sorted lists into one sorted list.
+
+
+
+# Problem 129: Rotate a list by n positions.
+
+
+
+# Problem 130: Implement linear search to find an element's position.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 3.4: List Comprehensions
+# ------------------------------------------------------------------------------
+
+# Problem 131: Create a list of squares using list comprehension.
+
+
+
+# Problem 132: Filter even numbers using list comprehension.
+
+
+
+# Problem 133: Convert a list of strings to uppercase using list comprehension.
+
+
+
+# Problem 134: Create a list of tuples using list comprehension.
+
+
+
+# Problem 135: Use nested list comprehension to flatten a 2D list.
+
+
+
+# Problem 136: Create a list comprehension with conditional logic (if-else).
+
+
+
+# Problem 137: Generate a multiplication table using list comprehension.
+
+
+
+# Problem 138: Extract specific characters from strings using list comprehension.
+
+
+
+# Problem 139: Create a list of lengths of words using list comprehension.
+
+
+
+# Problem 140: Use list comprehension to create a list of prime numbers.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 3.5: Introduction to APIs
+# ------------------------------------------------------------------------------
+
+# Problem 141: Write pseudocode to make a GET request to an API endpoint.
+
+
+
+# Problem 142: Design a function that would parse JSON response from an API.
+
+
+
+# Problem 143: Write code structure to handle API response with status code checking.
+
+
+
+# Problem 144: Create a function outline for making POST requests with data.
+
+
+
+# Problem 145: Write pseudocode for handling API errors and exceptions.
+
+
+
+# Problem 146: Design a class structure for an API client.
+
+
+
+# Problem 147: Write code to construct URL with query parameters.
+
+
+
+# Problem 148: Create a function to add authentication headers to API requests.
+
+
+
+# Problem 149: Write pseudocode for rate limiting API requests.
+
+
+
+# Problem 150: Design a retry mechanism for failed API calls.
+
+
+
+# ==============================================================================
+# WEEK 4: PYTHON DICTIONARIES AND FUNCTIONS
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Section 4.1: Dictionary Creation & Access
+# ------------------------------------------------------------------------------
+
+# Problem 151: Create a dictionary representing a person with name, age, and city.
+
+
+
+# Problem 152: Access values from a dictionary using keys.
+
+
+
+# Problem 153: Add a new key-value pair to an existing dictionary.
+
+
+
+# Problem 154: Update the value of an existing key in a dictionary.
+
+
+
+# Problem 155: Remove a key-value pair using del keyword.
+
+
+
+# Problem 156: Use get() method to safely access dictionary values.
+
+
+
+# Problem 157: Check if a key exists in a dictionary using 'in' operator.
+
+
+
+# Problem 158: Create a nested dictionary (dictionary within dictionary).
+
+
+
+# Problem 159: Get all keys from a dictionary using keys() method.
+
+
+
+# Problem 160: Get all values from a dictionary using values() method.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 4.2: Dictionary Methods & Operations
+# ------------------------------------------------------------------------------
+
+# Problem 161: Use items() to iterate through key-value pairs.
+
+
+
+# Problem 162: Use pop() to remove and return a value from dictionary.
+
+
+
+# Problem 163: Use popitem() to remove the last inserted key-value pair.
+
+
+
+# Problem 164: Use update() to merge two dictionaries.
+
+
+
+# Problem 165: Use setdefault() to get value or set default if key doesn't exist.
+
+
+
+# Problem 166: Create a shallow copy of a dictionary using copy().
+
+
+
+# Problem 167: Clear all items from a dictionary using clear().
+
+
+
+# Problem 168: Use fromkeys() to create a dictionary with default values.
+
+
+
+# Problem 169: Count frequency of words in a text using dictionary.
+
+
+
+# Problem 170: Invert a dictionary (swap keys and values).
+
+
+
+# ------------------------------------------------------------------------------
+# Section 4.3: Function Definitions & Calls
+# ------------------------------------------------------------------------------
+
+# Problem 171: Define a simple function that prints a greeting.
+
+
+
+# Problem 172: Create a function with one parameter and call it.
+
+
+
+# Problem 173: Write a function that returns a value.
+
+
+
+# Problem 174: Create a function with multiple parameters.
+
+
+
+# Problem 175: Write a function with a default parameter value.
+
+
+
+# Problem 176: Create a function that returns multiple values using tuple.
+
+
+
+# Problem 177: Write a function with keyword arguments.
+
+
+
+# Problem 178: Create a function using *args for variable number of arguments.
+
+
+
+# Problem 179: Write a function using **kwargs for keyword arguments.
+
+
+
+# Problem 180: Add a docstring to a function explaining its purpose.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 4.4: Function Applications
+# ------------------------------------------------------------------------------
+
+# Problem 181: Write a function to calculate area of a circle.
+
+
+
+# Problem 182: Create a function to check if a number is prime.
+
+
+
+# Problem 183: Write a function to find factorial using recursion.
+
+
+
+# Problem 184: Create a function to calculate Fibonacci number.
+
+
+
+# Problem 185: Write a function to reverse a string.
+
+
+
+# Problem 186: Create a function to check if a string is palindrome.
+
+
+
+# Problem 187: Write a function to count vowels in a string.
+
+
+
+# Problem 188: Create a function to find GCD of two numbers.
+
+
+
+# Problem 189: Write a function to sort a list without using sort().
+
+
+
+# Problem 190: Create a function to merge two sorted lists.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 4.5: Advanced Function Concepts
+# ------------------------------------------------------------------------------
+
+# Problem 191: Write a lambda function to square a number.
+
+
+
+# Problem 192: Use map() with a lambda function on a list.
+
+
+
+# Problem 193: Use filter() to filter even numbers from a list.
+
+
+
+# Problem 194: Use reduce() to calculate product of all numbers in a list.
+
+
+
+# Problem 195: Create a closure (nested function with access to outer scope).
+
+
+
+# Problem 196: Write a decorator function that prints before and after execution.
+
+
+
+# Problem 197: Create a generator function using yield.
+
+
+
+# Problem 198: Write a function that accepts another function as parameter.
+
+
+
+# Problem 199: Create a function that returns another function.
+
+
+
+# Problem 200: Implement memoization to cache function results.
+
+
+
+# ==============================================================================
+# WEEK 5: FILE PROCESSING, ERROR HANDLING, AND IMAGE ANALYSIS
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# Section 5.1: File Reading & Writing
+# ------------------------------------------------------------------------------
+
+# Problem 201: Write a program that creates and writes text to a file.
+
+
+
+# Problem 202: Read contents from a text file and print them.
+
+
+
+# Problem 203: Append text to an existing file without overwriting.
+
+
+
+# Problem 204: Read a file line by line using a loop.
+
+
+
+# Problem 205: Count the number of lines in a file.
+
+
+
+# Problem 206: Count the number of words in a file.
+
+
+
+# Problem 207: Find and replace text in a file.
+
+
+
+# Problem 208: Copy contents from one file to another.
+
+
+
+# Problem 209: Use 'with' statement for automatic file closing.
+
+
+
+# Problem 210: Read and write binary files.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 5.2: CSV & JSON Files
+# ------------------------------------------------------------------------------
+
+# Problem 211: Read data from a CSV file using csv module.
+
+
+
+# Problem 212: Write data to a CSV file.
+
+
+
+# Problem 213: Parse JSON data from a file.
+
+
+
+# Problem 214: Write Python dictionary to JSON file.
+
+
+
+# Problem 215: Convert CSV data to JSON format.
+
+
+
+# Problem 216: Filter and process CSV data.
+
+
+
+# Problem 217: Handle nested JSON structures.
+
+
+
+# Problem 218: Create a program to merge multiple CSV files.
+
+
+
+# Problem 219: Extract specific fields from JSON data.
+
+
+
+# Problem 220: Validate JSON data structure.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 5.3: Exception Handling
+# ------------------------------------------------------------------------------
+
+# Problem 221: Write a try-except block to handle division by zero.
+
+
+
+# Problem 222: Handle FileNotFoundError when opening files.
+
+
+
+# Problem 223: Use try-except-else block structure.
+
+
+
+# Problem 224: Use try-except-finally for cleanup operations.
+
+
+
+# Problem 225: Handle multiple exception types with different handlers.
+
+
+
+# Problem 226: Catch all exceptions with a generic except block.
+
+
+
+# Problem 227: Raise custom exceptions using raise keyword.
+
+
+
+# Problem 228: Create a custom exception class.
+
+
+
+# Problem 229: Handle ValueError when converting strings to numbers.
+
+
+
+# Problem 230: Write a function with comprehensive error handling.
+
+
+
+# ------------------------------------------------------------------------------
+# Section 5.4: File System Operations
+# ------------------------------------------------------------------------------
+
+# Problem 231: Check if a file exists using os.path.
+
+
+
+# Problem 232: Create a new directory using os.mkdir().
+
+
+
+# Problem 233: List all files in a directory.
+
+
+
+# Problem 234: Delete a file using os.remove().
+
+
+
+# Problem 235: Rename a file or directory.
+
+
+
+# Problem 236: Get file size and modification time.
+
+
+
+# Problem 237: Walk through directory tree using os.walk().
+
+
+
+# Problem 238: Get current working directory.
+
+
+
+# Problem 239: Copy files using shutil module.
+
+
+
+# Problem 240: Create nested directories with os.makedirs().
+
+
+
+# ------------------------------------------------------------------------------
+# Section 5.5: Image Analysis with Amazon Rekognition
+# ------------------------------------------------------------------------------
+
+# Problem 241: Design a function to load and prepare images for Rekognition.
+
+
+
+# Problem 242: Write pseudocode for detecting labels in images.
+
+
+
+# Problem 243: Create a function structure for face detection.
+
+
+
+# Problem 244: Design error handling for image processing operations.
+
+
+
+# Problem 245: Write code outline for text detection in images.
+
+
+
+# Problem 246: Create a function to filter results by confidence threshold.
+
+
+
+# Problem 247: Design a class for batch image processing.
+
+
+
+# Problem 248: Write pseudocode for comparing faces in images.
+
+
+
+# Problem 249: Create a function to save analysis results to a file.
+
+
+
+# Problem 250: Design a complete image analysis pipeline.
+
+
+
+# ==============================================================================
+# ADDITIONAL WEEKS (6-10) - Practice Problems Continue...
+# ==============================================================================
+
+# Week 6: Object-Oriented Programming (50 problems)
+# Week 7: Version Control with Git (50 problems)
+# Week 8: Persistent Storage with Databases (50 problems)
+# Week 9: Document Processing and Cloud Storage (50 problems)
+# Week 10: Event-Driven Python Applications (50 problems)
+
+# ==============================================================================
+# NOTES & TIPS
+# ==============================================================================
+
+"""
+Study Tips:
+1. Work through problems sequentially - they build on each other
+2. Test each solution before moving to the next problem
+3. Don't skip problems - even if they seem easy
+4. Review and refactor your code for better practices
+5. Add your own test cases to verify solutions
+6. Use print() statements to debug
+7. Comment your thought process
+8. Time yourself to improve coding speed
+9. Come back to difficult problems after a break
+10. Share your solutions with peers for feedback
+
+AWS Resources:
+- AWS Skill Builder: https://skillbuilder.aws/
+- Python Documentation: https://docs.python.org/3/
+- Boto3 Documentation: https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+- Amazon Q Developer: Use for coding assistance
+
+Good luck with your learning journey! 🚀
+"""
