@@ -7,7 +7,7 @@
 ║                                                                           ║
 ║   Features:                                                               ║
 ║   • 150+ Questions across 10 weeks                                        ║
-║   • Multiple question types (MCQ, T/F, Code, Fill-in-blank)              ║
+║   • Multiple question types (MCQ, T/F, Code, Fill-in-blank)               ║
 ║   • Live coding challenges with execution                                 ║
 ║   • Achievement system with badges                                        ║
 ║   • Multiple user profiles                                                ║
@@ -23,6 +23,8 @@
 ║   Usage: python3 aws_quiz_ultimate.py                                     ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
+Arthur: Vajra Sarpa
+24-11-2025
 """
 
 import json
